@@ -12,7 +12,9 @@ Master 2
 
 Este esta escrito en la rama Experimento en la cual no olvidamos de poner algo a nuestro codugo y usaremos "rebase"
 
-Vales verga
+Vales verga 
+
+Es la versiion actual
 
 Hola que hace.
 
