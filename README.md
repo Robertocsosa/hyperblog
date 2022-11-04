@@ -8,3 +8,5 @@ Este un blog en el que aprenderemos como usar Git y Github.
 - Usar Git y GitHub
 - Comandos más utilizados
 - Etc.
+ 
+* Creado pro Roberto Carlos Cardenas Sosa
