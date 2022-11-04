@@ -10,3 +10,4 @@ Este un blog en el que aprenderemos como usar Git y Github.
 - Etc.
  
 * Creado pro Roberto Carlos Cardenas Sosa
+* Incluye cambios en linux y MAC
